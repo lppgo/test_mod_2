@@ -1,0 +1,4 @@
+github.com/lppgo/test_mod v1.0.1 h1:XuA1ngDtQRqWehNTXRJO20XuvCXnQ/u41ZQ/pqgZKes=
+github.com/lppgo/test_mod v1.0.1/go.mod h1:h2AznGWV+tnt06rSKZPgA2a2S/1pHw8llVML+vtAWWU=
+github.com/lppgo/test_mod/v2 v2.0.1 h1:e1qFDcv5ncukeltafiycPWUwQrGNgUXEXOuxzXS68qc=
+github.com/lppgo/test_mod/v2 v2.0.1/go.mod h1:NfS9v42k/aIw73QtEWEvvkSYegCMb4ABjSOOCaFDebk=
